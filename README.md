@@ -1,7 +1,9 @@
 # ALFIDO-TASK-2
 
 # Website Traffic Analysis Dashboard
-![]
+![website traffic.png]
+
+
 ## 🌐 Overview
 This project provides a **Power BI dashboard** for analyzing website traffic and user interactions on a **music streaming platform**. The dashboard highlights:
 - **Key Performance Indicators (KPIs)**
