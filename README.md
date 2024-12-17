@@ -1,7 +1,7 @@
 # ALFIDO-TASK-2
 
 # Website Traffic Analysis Dashboard
-![website traffic.png]
+![website_traffic.png]
 
 
 ## 🌐 Overview
